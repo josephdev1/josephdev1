@@ -1,10 +1,10 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Steven Brown
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is German Aguiree
 
 ## Full Stack Developer. Speaker. Teacher. Good Dad
 
-Steven is a Full Stack Developer, Speaker, and Teacher with a passion for teaching developers through content. He is a full-time Technical Content Creator with years of experience in Software Development and Developer Advocacy.
+German is a Full Stack Developer, Speaker, and Teacher with a passion for teaching developers through content. He is a full-time Technical Content Creator with years of experience in Software Development and Developer Advocacy.
 
-- 🌍  I'm based in North Las Vegas
+- 🌍  I'm based in Yonkers, NY
 - 🧠  I'm Expert of Javascript and Python
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
@@ -31,4 +31,4 @@ Steven is a Full Stack Developer, Speaker, and Teacher with a passion for teachi
 
 ### Contact Me
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:steven.brown9194@gmail.com)](mailto:steven.brown9194@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aguirregerman827@gmail.com)](mailto:aguirregerman827@gmail.com)
