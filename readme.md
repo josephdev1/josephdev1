@@ -31,4 +31,4 @@ Joseph is a Full Stack Developer, Speaker, and Teacher with a passion for teachi
 
 ### Contact Me
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aguirregerman827@gmail.com)](mailto:aguirregerman827@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aguirregerman827@gmail.com)](mailto:josephdesantiago349@gmail.com)
