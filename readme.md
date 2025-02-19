@@ -1,10 +1,10 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is German Aguiree
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joseph Desantiago
 
 ## Full Stack Developer. Speaker. Teacher. Good Dad
 
-German is a Full Stack Developer, Speaker, and Teacher with a passion for teaching developers through content. He is a full-time Technical Content Creator with years of experience in Software Development and Developer Advocacy.
+Joseph is a Full Stack Developer, Speaker, and Teacher with a passion for teaching developers through content. He is a full-time Technical Content Creator with years of experience in Software Development and Developer Advocacy.
 
-- 🌍  I'm based in Yonkers, NY
+- 🌍  I'm based in Elmont, NY
 - 🧠  I'm Expert of Javascript and Python
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
