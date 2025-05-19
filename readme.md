@@ -1,11 +1,11 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joseph Desantiago
+# Hi Everyone![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## Full Stack Developer. Speaker. Teacher. Good Dad
+## Full Stack Developer & GenAI Engineer. Speaker. Teacher. Good Dad
 
-Joseph is a Full Stack Developer, Speaker, and Teacher with a passion for teaching developers through content. He is a full-time Technical Content Creator with years of experience in Software Development and Developer Advocacy.
+I'm a Full Stack Developer, Speaker, and Teacher with a passion for teaching developers through content. I'm a full-time Technical Content Creator with years of experience in Software Development and Developer vocacy.
 
-- 🌍  I'm based in Elmont, NY
-- 🧠  I'm Expert of Javascript and Python
+- 🌍  I'm based in United States
+- 🧠  I'm Expert of Javascript and Python, AI Technology
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
@@ -28,7 +28,3 @@ Joseph is a Full Stack Developer, Speaker, and Teacher with a passion for teachi
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 
 </p>
-
-### Contact Me
-
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aguirregerman827@gmail.com)](mailto:josephdesantiago349@gmail.com)
